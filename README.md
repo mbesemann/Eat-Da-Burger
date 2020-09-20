@@ -3,7 +3,8 @@
 # Description
 Order and devour your favourite burgers!
 
-![Burger](assets/screenshot.png)
+![Burger](assets/screenshot.PNG)
+
 # Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
