@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+
+.col-centered {
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {text-align: center;}
+
+li {padding: 5px}
